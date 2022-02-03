@@ -34,6 +34,14 @@ p{
     color:rgb(19, 6, 6);
     font-family:fantasy;
 }
+.floatRight{
+  position:absolute;
+  
+  right: 28px;
+  top: 132px;
+  
+}
+
 
 .button {
     background-color: #dd8e27;
