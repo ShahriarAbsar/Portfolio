@@ -1,0 +1,159 @@
+
+body {
+    background-color: #03163b34 ;
+  }
+ 
+h1{
+    text-align: center;
+    text-decoration: underline;
+    
+    color:#f1f50e;
+    font-style: italic; 
+    text-shadow: 3px 3px black;
+
+}
+p {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.me{
+    text-align: center;
+  }
+  .info{
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+
+p{
+    text-align:center;
+    color:rgb(19, 6, 6);
+    font-family:fantasy;
+}
+
+.button {
+    background-color: #dd8e27;
+    text-decoration: none;
+    text-align: center;
+    font-size: 24px;
+    border: none;
+    border-radius: 40px;
+    color: white;
+    top:1000px;
+    left: 1100px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px 20px;
+    cursor: pointer;
+  }
+
+.b2 {
+    background-color: #ebe6e0;
+    text-decoration: none;
+    text-align: center;
+    font-size: 10px;
+    border: none;
+    border-radius: 40px;
+    color: white;
+    top:1000px;
+    left: -1100px;
+    padding: 1px 11px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    margin: 8px -2px;
+    cursor: pointer;
+
+}  
+  
+  .flex-container {
+    display: flex;
+    
+  }
+  .flex-container > div {
+    background-color: #364c63;
+    color: white;
+    margin: 10px;
+    border-radius: 40px;
+  }
+  
+   
+  .div1 {
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 15px;
+        width: 500px;
+        height: 300px;
+        padding: 50px;
+        box-shadow: 5px 10px #707271;  
+      }
+      
+  .div2 {
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 15px;
+        width: 200px;
+        height: 300px;  
+        padding: 50px;
+        box-shadow: 5px 10px #707271; 
+      }
+  .div3 {
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 15px;
+        line-height: 1.6;
+        width: 500px;
+        height: 300px;  
+        padding: 50px;
+        box-shadow: 5px 10px #707271; 
+      }
+      table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+      
+      td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+      }
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(122, 120, 118);
+    border-radius: 20px;
+    
+    color: white;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 20px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-github {
+    background: #0f0f0f;
+    color: white;
+  }
+      
+      
